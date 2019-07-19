@@ -1,5 +1,5 @@
 # SR-with-tinyface
-Super resolution with tinyface
+Super resolution with tinyface/n
 This repository only provides test code.
 
 Usage
