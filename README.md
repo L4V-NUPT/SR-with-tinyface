@@ -5,8 +5,8 @@ Super resolution with tinyface.This repository only provides test code.
 Cited in https://github.com/xujinchang/Face-hallucination-with-tiny-images/blob/master
 
 ## Trained models
-We provide trained models for testing. You can download it from the 链接：https://pan.baidu.com/s/1m-Q1eprifgj4nzyjPqdNZw  
-,the password is hngv and put it on ./checkpoints/
+We provide trained models for testing. You can download it from the https://pan.baidu.com/s/1nYqgM4jYJIdPoTYqD-qbVw   
+,the password is vhou and put it on ./checkpoints/
 
 ## Evaluate
 $ python eval.py --model=wgan-gp
