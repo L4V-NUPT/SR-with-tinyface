@@ -6,7 +6,7 @@ Cited in https://github.com/xujinchang/Face-hallucination-with-tiny-images/blob/
 
 ## Trained models
 We provide trained models for testing. You can download it from the https://pan.baidu.com/s/1nYqgM4jYJIdPoTYqD-qbVw   
-,the password is vhou and put it on ./checkpoints/
+,the password is "vhou" and put it on ./checkpoints/
 
 ## Evaluate
 $ python eval.py --model=wgan-gp
